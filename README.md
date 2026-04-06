@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am Sachin Thakur, a Computer Science graduate and entry-level Data Analytics professional based in Pune, Maharashtra. Skilled in Python, SQL, Power BI, Tableau, and Excel, with hands-on experience building end-to-end analytics solutions — from data cleaning and EDA to interactive dashboards that drive real business decisions. Analyzed $352M+ in revenue, engineered features across 3,900+ customer transactions, and delivered strategic business recommendations. Certified through Fortune Cloud Technologies and Deloitte Australia's Data Analytics Simulation (Forage). NCC National Camp Director — coordinating 150 cadets across 3 states — bringing the same discipline and leadership to every dataset.
-
-
+I'm Sachin Thakur, a Computer Science graduate and entry-level Data Analytics professional from Pune, Maharashtra, skilled in Python, SQL, Power BI, Tableau, and Excel, with hands-on experience delivering end-to-end analytics solutions, having analyzed $352M+ in revenue, engineered features across 3,900+ customer transactions, earned certifications from Fortune Cloud Technologies and Deloitte Australia (Forage).
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thakur-sachin)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinthakur19)
